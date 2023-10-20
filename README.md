@@ -11,7 +11,7 @@ Time spent: 4 hours spent in total
 
 Volume Calculator is an android app that will calculate a cylindrical container's volume based on the dimensions a user provides.
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😑🤷🏽🖩**
 
 ## Application Features
 
